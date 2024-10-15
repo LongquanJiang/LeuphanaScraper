@@ -1,0 +1,7 @@
+{
+    "sender" : "example@outlook.com",
+    "receiver" : "example@outlook.com",
+    "password" : "authcode",
+    "server" : "smtp.example.com",
+    "port" : 465
+}

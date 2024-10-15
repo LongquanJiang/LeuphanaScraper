@@ -1,0 +1,4 @@
+scrapeops-scrapy
+scrapy
+spidermon
+psycopg2
